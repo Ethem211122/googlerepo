@@ -1,0 +1,56 @@
+.kutu1{ 
+    text-align: center;"
+}
+.kutu2{
+    text-align: center;
+    background-color: rgb(239, 239, 240);
+    border-radius: 3px;
+
+    
+}
+.kutu3{
+    font-size: 17px;
+    text-align: center;
+     background-color: rgb(155, 222, 213);
+     width: 498px;
+     height: 80px;
+     margin: 1px;
+     float: left;
+     border-radius: 3px;
+
+
+}
+.kutu4{
+    color: blue;
+    background-color: rgb(155, 222, 213);
+    width: 300px;
+    height: 80px;
+    margin: 1px;
+    float: left;
+    border-radius: 3px;
+
+
+}
+
+.kutu5{
+    color: blue;
+    background-color: rgb(155, 222, 213);
+    width: 498px;
+    height: 80px;
+    margin: 1px;
+    float: left;
+    border-radius: 3px;
+
+}
+
+a{
+    color: blue;
+}
+div{
+    text-align: center;
+}
+p{
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+}
